@@ -1,231 +1,263 @@
-# HistoryJanus baseline begin
-*.1 filter=lfs diff=lfs merge=lfs -text
-*.48719 text eol=lf
-*.7z filter=lfs diff=lfs merge=lfs -text
-*.@msg filter=lfs diff=lfs merge=lfs -text
-*.a filter=lfs diff=lfs merge=lfs -text
-*.a51 text eol=lf
-*.administrator text eol=lf
-*.ap15 text eol=lf
-*.asm filter=lfs diff=lfs merge=lfs -text
-*.asmdef text eol=lf
-*.asset text eol=lf
-*.autosave filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-*.baml filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-*.bip filter=lfs diff=lfs merge=lfs -text
-*.blend filter=lfs diff=lfs merge=lfs -text
-*.bmp filter=lfs diff=lfs merge=lfs -text
-*.bomdoc text eol=lf
-*.c text eol=lf
-*.caj filter=lfs diff=lfs merge=lfs -text
-*.cat filter=lfs diff=lfs merge=lfs -text
-*.cfg filter=lfs diff=lfs merge=lfs -text
-*.cfs filter=lfs diff=lfs merge=lfs -text
-*.ckt text eol=lf
-*.cmd text eol=lf
-*.cnk filter=lfs diff=lfs merge=lfs -text
-*.config text eol=lf
-*.cpp text eol=lf
-*.cs text eol=lf
-*.csproj text eol=lf
-*.csv text eol=lf
-*.dat filter=lfs diff=lfs merge=lfs -text
-*.db filter=lfs diff=lfs merge=lfs -text
-*.db-shm filter=lfs diff=lfs merge=lfs -text
-*.db-wal filter=lfs diff=lfs merge=lfs -text
-*.del filter=lfs diff=lfs merge=lfs -text
-*.dft filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-*.doc filter=lfs diff=lfs merge=lfs -text
-*.docm filter=lfs diff=lfs merge=lfs -text
-*.docx filter=lfs diff=lfs merge=lfs -text
-*.dti text eol=lf
-*.dwg filter=lfs diff=lfs merge=lfs -text
-*.dwlt text eol=lf
-*.dxf text eol=lf
-*.dylib filter=lfs diff=lfs merge=lfs -text
-*.editorconfig text eol=lf
-*.err text eol=lf
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.fdt filter=lfs diff=lfs merge=lfs -text
-*.fdx filter=lfs diff=lfs merge=lfs -text
-*.fig filter=lfs diff=lfs merge=lfs -text
-*.filters text eol=lf
-*.flv filter=lfs diff=lfs merge=lfs -text
-*.fnm text eol=lf
-*.frq text eol=lf
-*.gen filter=lfs diff=lfs merge=lfs -text
-*.guid text eol=lf
-*.gx3 filter=lfs diff=lfs merge=lfs -text
-*.gz filter=lfs diff=lfs merge=lfs -text
-*.h text eol=lf
-*.hex filter=lfs diff=lfs merge=lfs -text
-*.htm text eol=lf
-*.html text eol=lf
-*.http text eol=lf
-*.ico filter=lfs diff=lfs merge=lfs -text
-*.id filter=lfs diff=lfs merge=lfs -text
-*.idx filter=lfs diff=lfs merge=lfs -text
-*.iex text eol=lf
-*.igs filter=lfs diff=lfs merge=lfs -text
-*.index filter=lfs diff=lfs merge=lfs -text
-*.inf text eol=lf
-*.ini text eol=lf
-*.ino text eol=lf
-*.inp0 text eol=lf
-*.inpx text eol=lf
-*.intlib filter=lfs diff=lfs merge=lfs -text
-*.ipch filter=lfs diff=lfs merge=lfs -text
-*.jar filter=lfs diff=lfs merge=lfs -text
-*.jfif filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.js text eol=lf
-*.json text eol=lf
-*.jt filter=lfs diff=lfs merge=lfs -text
-*.ksp filter=lfs diff=lfs merge=lfs -text
-*.lastbuildstate text eol=lf
-*.layx text eol=lf
-*.lib filter=lfs diff=lfs merge=lfs -text
-*.libpkg text eol=lf
-*.lnk filter=lfs diff=lfs merge=lfs -text
-*.lnp text eol=lf
-*.lst text eol=lf
-*.m text eol=lf
-*.m51 text eol=lf
-*.manifest text eol=lf
-*.mcam filter=lfs diff=lfs merge=lfs -text
-*.mcam-control filter=lfs diff=lfs merge=lfs -text
-*.mcam-gmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-lmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-mmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-rmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-wmd filter=lfs diff=lfs merge=lfs -text
-*.md text eol=lf
-*.mdl text eol=lf
-*.meta text eol=lf
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.mltbx filter=lfs diff=lfs merge=lfs -text
-*.mod text eol=lf
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.nc text eol=lf
-*.nfproj text eol=lf
-*.nupkg filter=lfs diff=lfs merge=lfs -text
-*.original filter=lfs diff=lfs merge=lfs -text
-*.p7s filter=lfs diff=lfs merge=lfs -text
-*.par filter=lfs diff=lfs merge=lfs -text
-*.pcbdoc filter=lfs diff=lfs merge=lfs -text
-*.pcblib filter=lfs diff=lfs merge=lfs -text
-*.pdbx text eol=lf
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.pe filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-*.plf filter=lfs diff=lfs merge=lfs -text
-*.plg text eol=lf
-*.pma15_0 filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.pptx filter=lfs diff=lfs merge=lfs -text
-*.prefab text eol=lf
-*.pri filter=lfs diff=lfs merge=lfs -text
-*.projitems text eol=lf
-*.props text eol=lf
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prt filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.prx filter=lfs diff=lfs merge=lfs -text
-*.ps1 text eol=lf
-*.psb filter=lfs diff=lfs merge=lfs -text
-*.psm filter=lfs diff=lfs merge=lfs -text
-*.pst text eol=lf
-*.pubxml text eol=lf
-*.pwx filter=lfs diff=lfs merge=lfs -text
-*.py text eol=lf
-*.pyc filter=lfs diff=lfs merge=lfs -text
-*.pyproj text eol=lf
-*.qml text eol=lf
-*.r2021a filter=lfs diff=lfs merge=lfs -text
-*.razor text eol=lf
-*.rdf filter=lfs diff=lfs merge=lfs -text
-*.recipe text eol=lf
-*.resources filter=lfs diff=lfs merge=lfs -text
-*.resx text eol=lf
-*.rld filter=lfs diff=lfs merge=lfs -text
-*.rlf text eol=lf
-*.rsf text eol=lf
-*.rslib filter=lfs diff=lfs merge=lfs -text
-*.rsproj text eol=lf
-*.rsstnx text eol=lf
-*.rsuser text eol=lf
-*.rul text eol=lf
-*.schdoc filter=lfs diff=lfs merge=lfs -text
-*.schlib filter=lfs diff=lfs merge=lfs -text
-*.scr text eol=lf
-*.set text eol=lf
-*.settings text eol=lf
-*.sev text eol=lf
-*.shproj text eol=lf
-*.sldasm filter=lfs diff=lfs merge=lfs -text
-*.slddrw filter=lfs diff=lfs merge=lfs -text
-*.sldprt filter=lfs diff=lfs merge=lfs -text
-*.sln text eol=lf
-*.slx filter=lfs diff=lfs merge=lfs -text
-*.so filter=lfs diff=lfs merge=lfs -text
-*.srt filter=lfs diff=lfs merge=lfs -text
-*.step filter=lfs diff=lfs merge=lfs -text
-*.stp text eol=lf
-*.sys filter=lfs diff=lfs merge=lfs -text
-*.targets text eol=lf
-*.tii filter=lfs diff=lfs merge=lfs -text
-*.tis filter=lfs diff=lfs merge=lfs -text
-*.tooldb filter=lfs diff=lfs merge=lfs -text
-*.tvd filter=lfs diff=lfs merge=lfs -text
-*.tvf filter=lfs diff=lfs merge=lfs -text
-*.tvx filter=lfs diff=lfs merge=lfs -text
-*.txt text eol=lf
-*.unity text eol=lf
-*.uvopt text eol=lf
-*.uvproj text eol=lf
-*.v2 filter=lfs diff=lfs merge=lfs -text
-*.vb text eol=lf
-*.vbproj text eol=lf
-*.vcxproj text eol=lf
-*.vxd filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.xaml text eol=lf
-*.xls filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xmind filter=lfs diff=lfs merge=lfs -text
-*.xml text eol=lf
-*.xmp text eol=lf
-*.x_t filter=lfs diff=lfs merge=lfs -text
-*.yml text eol=lf
-*.zheng text eol=lf
-*.zw1 filter=lfs diff=lfs merge=lfs -text
-*._ text eol=lf
-# HistoryJanus baseline end
+# 极保守 LFS 策略：不按扩展名批量套 LFS。
+# 旧的按扩展名通配（*.asm / *.baml 这类文本也在内）是 11GB LFS 占用
+# 与推送被 GitHub pre-receive 拒收的根因。
+# 下面只逐条列出**已经是 LFS 指针**的现存文件，保证这些指针不失效；
+# 新文件一律不自动进 LFS——只有单个文件超过 GitHub 100MB 硬限时，
+# 才由提交链路逐个征求人工同意后按精确路径追加。
+* text=auto
 
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.PNG filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.stp filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.flv filter=lfs diff=lfs merge=lfs -text
-\# filter=lfs diff=lfs merge=lfs -text
-常见视频格式 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-Pro filter=lfs diff=lfs merge=lfs -text
-工程文件 filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-Premiere filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/0cfac93092662d40f0795106da1c69d.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/11ff50842912f3df39058900fc1ac2e.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/1efc6b5a8e1ea6b56c6abc691667651.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/3092d30906f87f51665a8bd5ed71462.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/3d0bfbc4b1043ca6616e2bd4f554d33.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/77de592a5b4cab41244b7c492749fd3.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/82cb847e265a49c8c17635331ccb237.png filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/95a0eaeddfc50a5bdfa47253abca1b8.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/9df53fdd6276d19f35f7040f923b4c1.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/ABH.xlsx filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/cdce1e41c9d029f0d4995ace35e08cf.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/d8956c03217d9cc3b6d4c039ddc35dc.png filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/dc05f1ce534080b5a0c64552d3c8dec.jpg filter=lfs diff=lfs merge=lfs -text
+b-MADE1-小船模型/made.pptx filter=lfs diff=lfs merge=lfs -text
+b-MADE2-小车作业/Thumbs.db filter=lfs diff=lfs merge=lfs -text
+b-MADE2-小车作业/made3.pptx filter=lfs diff=lfs merge=lfs -text
+b-MADE2-小车作业/单元弧拟合/圆弧拟合.xmind filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/02 总线舵机通信协议.pdf" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/08 舵机调试板软件/BusLinker调试板软件/Bus Servo Terminal setup V2.3.exe" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/08 舵机调试板软件/BusLinker调试板驱动/ch341ser.exe" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/08 舵机调试板软件/BusLinker调试板驱动/ch341串口驱动安装失败问题及解决方法.pdf" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/MADE2-机械臂安装教程.pdf" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/小型机械臂任务书-23级.docx" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/机械臂材料清单.xlsx" filter=lfs diff=lfs merge=lfs -text
+"b-MADE3-小型机械臂/0 小型机械臂参考文件1/软件安装/python-3.12.6-amd64.exe" filter=lfs diff=lfs merge=lfs -text
+b-MADE3-小型机械臂/MADE3小型机械臂报告.docx filter=lfs diff=lfs merge=lfs -text
+b-MADE3-小型机械臂/matlab/sita_functions_table.xlsx filter=lfs diff=lfs merge=lfs -text
+b-工图作业/2-工程图学作业.dwg filter=lfs diff=lfs merge=lfs -text
+b-工程图学作业.dwg filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/人脸识别.mp4 filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/小灯亮灯实验.mp4 filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/数字.jpg filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/数字播报.mp4 filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/机器人设计概论实验报告.docx filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/超声波.jpg filter=lfs diff=lfs merge=lfs -text
+b-微机原理作业/超声波开关.mp4 filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/~$231陈煜暄.docx filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/~$类文献综述(范文).docx filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/参考文献格式.doc filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/1746-160X-5-9.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/Adaptive_Impedance_Control_for_an_Upper_Limb_Robotic_Exoskeleton_Using_Biological_Signals.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/An_EMG-driven_exoskeleton_hand_robotic_training_device_on_chronic_stroke_subjects_Task_training_system_for_stroke_rehabilitation.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/B_AURO.0000016862.38337.f1.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/Intuitive_Online_Simultaneous_and_Proportional_Myoelectric_Control_Over_Two_Degrees-of-Freedom_in_Upper_Limb_Amputees.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/MDER-91102-myoelectric-control-of-prosthetic-hands--state-of-the-art_072716.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/admin,+26361-95121-1-CE.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/s11517-008-0369-0.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/s11517-018-1807-2.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/一种基于表面肌电信号的骨折术后膝关节疼痛检测方法_郑杨.caj filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/一种新型床旁上肢康复训练机器人的结构设计与运动分析_殷音.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/三自由度仿人型假手及其肌电控制策略_杨大鹏.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/上肢康复机器人对脑卒中后肩痛患者的疗效研究_苏鹏.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/下肢外骨骼机器人研究进展及趋势_白雪.pdf filter=lfs diff=lfs merge=lfs -text
+"b-文献检索作业/引用/可穿戴式下肢外骨骼康复机器人设计与分析_李保坤 (1).pdf" filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/可穿戴式下肢外骨骼康复机器人设计与分析_李保坤.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于sEMG和功能电刺激肌电补偿的下肢智能康复系统.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于sEMG的多自由度下肢...骼康复机器人结构与控制策略_陈龙.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于sEMG的连续膝关节角度预测方法_唐晓娅.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于串联弹性驱动的上肢康复机器人人机交互控制研究_田镇达.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于肌电信号的智能家居系统设计与应用_阳勇.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于表面肌电信号的上肢康复动作识别_顾玉平.pdf filter=lfs diff=lfs merge=lfs -text
+"b-文献检索作业/引用/基于表面肌电信号的智能康复技术_张松 (1).pdf" filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于表面肌电信号的智能康复技术_张松.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/基于表面肌电信号的肌肉疲劳识别系统设计_吉星照.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/床旁上肢康复机器人用于脑梗死患者康复训练疗效观察_郭春花.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/智能下肢假肢关键技术研究进展_杨鹏.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/柔性下肢外骨骼机器人研究进展及关键技术分析_赵新刚.pdf filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/引用/脑卒中人群下肢康复设备感性设计_李一凡.pdf filter=lfs diff=lfs merge=lfs -text
+"b-文献检索作业/引用/表面肌电图的研究现状及其发展 (1).pdf" filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/文献检索作业机制231陈煜暄.pdf filter=lfs diff=lfs merge=lfs -text
+"b-文献检索作业/新建 DOC 文档.doc" filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/机制231陈煜暄.docx filter=lfs diff=lfs merge=lfs -text
+b-文献检索作业/理工类文献综述(范文).docx filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Adobe Premiere Pro Auto-Save/无标题--f2a53c7f-d786-2cc7-7921-94ec5ce43051-2025-04-04_13-48-42.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Adobe Premiere Pro Auto-Save/无标题--f2a53c7f-d786-2cc7-7921-94ec5ce43051-2025-04-04_13-54-42.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Adobe Premiere Pro Auto-Save/无标题--f2a53c7f-d786-2cc7-7921-94ec5ce43051-2025-04-04_14-01-12.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Adobe Premiere Pro Auto-Save/无标题--f2a53c7f-d786-2cc7-7921-94ec5ce43051-2025-04-04_15-17-32.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Adobe Premiere Pro Auto-Save/无标题--f2a53c7f-d786-2cc7-7921-94ec5ce43051-2025-04-04_15-27-41.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Adobe Premiere Pro Auto-Save/无标题--f2a53c7f-d786-2cc7-7921-94ec5ce43051-2025-04-04_15-33-41.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/PR/Dassault Systemes SolidWorks 2019 and above 2025.03.30 - 17.57.20.mp4" filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/PR/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/PR/窗帘自动升降.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/mm10-L.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/串联杆.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/主动杆.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/小轴承.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/滑块.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/滑块1.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/滑块2.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/滑块3.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/滑块4.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/联动杆.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/背景板.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/自动窗帘.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/自动窗帘.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/自动窗帘NE.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/自动窗帘NE.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/轨道.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/轨道1.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/轨道2.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/轴承.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/轴承2.par filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/SE/连杆300 - 2.par" filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/连杆300.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/铜垫片.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/铜垫片2.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/SE/零件19.par filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-08-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-14-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-20-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-26-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/XSJ/Dassault Systemes SolidWorks 2019 and above 2025.03.30 - 17.57.20.01_1.mp4" filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/XSJ/XSJ.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/XSJ/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/主体/新设计.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/主体/旧设计.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/主体/装配体1-PC-20241024MRGY.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/主体/装配体1.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/渲染/KS2985425035.28.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/渲染/KS2985425035.29.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/渲染/KS2985425035.30.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/渲染/f43999cf2be0631cc754a1077b5d4aeb.png filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/目标车型.docx filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/窗帘pr/Adobe Premiere Pro Auto-Save/无标题--e4ec1c08-c0c4-5a26-e60b-9f79755dc847-2025-03-20_23-29-58.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/窗帘pr/Adobe Premiere Pro Auto-Save/无标题--e4ec1c08-c0c4-5a26-e60b-9f79755dc847-2025-03-20_23-35-58.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理作业/窗帘pr/Adobe Premiere Pro Auto-Save/无标题--e4ec1c08-c0c4-5a26-e60b-9f79755dc847-2025-03-20_23-42-28.prproj" filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/窗帘pr/帮将军的迈巴赫设计窗帘.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/窗帘pr/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/设计报告-2.doc filter=lfs diff=lfs merge=lfs -text
+b-机械原理作业/设计报告.doc filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-14-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-20-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/XSJ/Adobe Premiere Pro Auto-Save/XSJ--774ff6e1-c843-7e8a-694d-7360535c577f-2025-03-30_18-26-19.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/XSJ/Dassault Systemes SolidWorks 2019 and above 2025.03.30 - 17.57.20.01_1.mp4" filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/XSJ/XSJ.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/XSJ/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/主体/新设计.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/主体/旧设计.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/主体/装配体1-PC-20241024MRGY.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/主体/装配体1.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/渲染/KS2985425035.28.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/渲染/KS2985425035.29.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/渲染/KS2985425035.30.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/渲染/f43999cf2be0631cc754a1077b5d4aeb.png filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/目标车型.docx filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/窗帘pr/Adobe Premiere Pro Auto-Save/无标题--e4ec1c08-c0c4-5a26-e60b-9f79755dc847-2025-03-20_23-29-58.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/窗帘pr/Adobe Premiere Pro Auto-Save/无标题--e4ec1c08-c0c4-5a26-e60b-9f79755dc847-2025-03-20_23-35-58.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理大作业（自动窗帘）/窗帘pr/Adobe Premiere Pro Auto-Save/无标题--e4ec1c08-c0c4-5a26-e60b-9f79755dc847-2025-03-20_23-42-28.prproj" filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/窗帘pr/帮将军的迈巴赫设计窗帘.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/窗帘pr/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/设计报告-2.doc filter=lfs diff=lfs merge=lfs -text
+b-机械原理大作业（自动窗帘）/设计报告.doc filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/凸轮/凸轮.SLDPRT filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/凸轮/凸轮装配.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/凸轮/凸轮轴.SLDPRT filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/凸轮/套子.SLDPRT filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/凸轮/杆子.SLDPRT filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/丝杆.par" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/丝杆固定 2.par" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/丝杆固定.par" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/主体.cfg" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/主体3.asm" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/主体3.cfg" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/固定.par" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/垫片.par" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/杆.par" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体 2/轴承.par" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/丝杆.par filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/拿香烟/主体/丝杆固定 2.par" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/丝杆固定.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/主体.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/主体.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/固定.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/垫片.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/杆.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/主体/轴承.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/带轮/L1.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/带轮/L2.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/拿香烟手.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/拿香烟手.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/测试/装配4.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/测试/装配4.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/测试/零件2.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/测试/零件3.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/测试/零件5.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/拿香烟/测试/零件6.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/02026417.stp.SLDPRT filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/Desktop 2025.03.04 - 15.53.35.03.mp4" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/KS5753819793.bip filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/PR/Adobe Premiere Pro Auto-Save/无标题--e89cb853-eb30-8d6d-c982-cf152b7f957d-2025-03-04_16-00-33.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/PR/Adobe Premiere Pro Auto-Save/无标题--e89cb853-eb30-8d6d-c982-cf152b7f957d-2025-03-04_16-06-33.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/PR/Adobe Premiere Pro Auto-Save/无标题--e89cb853-eb30-8d6d-c982-cf152b7f957d-2025-03-04_16-12-33.prproj" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/PR/作业2-15图b.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/PR/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/mm16.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/mm30.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/主轴.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/作业2-15.26.mp4 filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/关节装配.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/关节装配.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/关节装配2.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/关节装配2.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/夹具.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/机架.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/装夹.asm filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/装夹.cfg filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/装夹.stp filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/装配体1.SLDASM filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/轴 2.par" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/轴.par filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/轴.par - 快捷方式.lnk" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/轴承.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/连接.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/连接杆1.par filter=lfs diff=lfs merge=lfs -text
+"b-机械原理小作业（沈天耀课程）/装夹/连杆2 -2本.par" filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/连杆2.par filter=lfs diff=lfs merge=lfs -text
+b-机械原理小作业（沈天耀课程）/装夹/连杆3.par filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/1.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/10.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/11.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/12.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/123.prproj filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/13.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/14.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/15.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/16.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/17.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/18.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/2.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/2f420f9043a2877b521277d1204e857f.00_00_00_05.Still001.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/3.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/4.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/5.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/6.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/7.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/8.bmp filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/9.bmp filter=lfs diff=lfs merge=lfs -text
+"b-物理实验小球轨迹/Adobe Premiere Pro Auto-Save/无标题--17752e90-30bc-be4f-b152-528d44726666-2024-06-20_12-12-23.prproj" filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/工作簿1.xlsx filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/无标题.prproj filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/最终图合成PPT.pptx filter=lfs diff=lfs merge=lfs -text
+b-物理实验小球轨迹/最终图片.bmp filter=lfs diff=lfs merge=lfs -text
+b-社会实践报告/宁波相关红色文化遗址参观活动.docx filter=lfs diff=lfs merge=lfs -text
+"b-社会实践报告/新建 DOC 文档.doc" filter=lfs diff=lfs merge=lfs -text
+b-社会实践报告/社会实践报告.docx filter=lfs diff=lfs merge=lfs -text
+b-社会实践报告/红色的河社会实践报告.docx filter=lfs diff=lfs merge=lfs -text
+b-社会实践报告/红色的河社会实践报告.pdf filter=lfs diff=lfs merge=lfs -text
+b-英语作业/英语.docx filter=lfs diff=lfs merge=lfs -text
+b-语文作业/语文作业-荆轲刺秦2.doc filter=lfs diff=lfs merge=lfs -text
+"b-道法作业/Adobe Premiere Pro Auto-Save/JINGGUOZHENG-2024-05-09_00-28-41.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-道法作业/Adobe Premiere Pro Auto-Save/JINGGUOZHENG.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-道法作业/Adobe Premiere Pro Auto-Save/机器人与我们的未来-2024-05-28_00-14-43.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-道法作业/Adobe Premiere Pro Auto-Save/机器人与我们的未来.prproj" filter=lfs diff=lfs merge=lfs -text
+"b-道法作业/Desktop 2024.05.09 - 00.09.29.02.mp4" filter=lfs diff=lfs merge=lfs -text
+b-道法作业/JINGGUOZHENG.prproj filter=lfs diff=lfs merge=lfs -text
